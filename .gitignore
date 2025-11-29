@@ -3,6 +3,8 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+blog.db
+
 # C extensions
 *.so
 

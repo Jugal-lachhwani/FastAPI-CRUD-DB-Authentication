@@ -1,0 +1,4 @@
+pwdlib[argon2] 
+fastapi
+uvicorn
+sqlalchemy
